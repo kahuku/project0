@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Book.h
+string
+-
+iostream
+-
+
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/BookCreator.cpp
+BookCreator.h
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/BookCreator.h
+Info.h
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Info.h
+
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/BookCreator.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+Book.h
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Book.h
+Info.h
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Info.h
+
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Info.h
+string
+-
+
