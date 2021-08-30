@@ -6,25 +6,17 @@
 
 #IncludeRegexTransform: 
 
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Book.cpp
+string
+-
+sstream
+-
+Book.h
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Book.h
+
 /Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Book.h
 string
 -
 iostream
 -
-
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Library.cpp
-iostream
--
-sstream
--
-Library.h
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Library.h
-
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Library.h
-vector
--
-map
--
-Book.h
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Book.h
 

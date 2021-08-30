@@ -15,7 +15,14 @@ Book::Book(std::string title, std::string author) {
 }
 
 void Book::setGenre(std::string genre) {
-    this->genre = genre;
+    // BUG WAS HERE
+    if (!genreSet){
+        this->genre = genre;
+        genreSet = true;
+    }
+    else{
+        throw "Genre can not be set twice for the same book.";
+    }
 }
 
 void Book::setPages(std::string pages) {
