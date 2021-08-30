@@ -12,27 +12,19 @@ string
 iostream
 -
 
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/BookCreator.cpp
-BookCreator.h
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/BookCreator.h
-Info.h
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Info.h
-
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/BookCreator.h
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Library.cpp
 iostream
 -
-fstream
+sstream
 -
+Library.h
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Library.h
+
+/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Library.h
 vector
 -
-string
+map
 -
 Book.h
 /Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Book.h
-Info.h
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Info.h
-
-/Users/drew/Documents/Soph_Year/Fall/CS_236/project0/Info.h
-string
--
 
